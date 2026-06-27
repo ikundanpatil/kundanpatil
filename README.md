@@ -66,11 +66,13 @@
     <!-- Right Column: Everything else stacks vertically here -->
     <td valign="top">
       <h3>💫 About Me</h3>
+      <p>
       🌱 I am currently working on and developing my programming skills.<br>
       🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
       💬 Skills I acquire in programming languages such as Python, SQL.<br>
       ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.
       <br>
+      </p>
       <h3>🧲 Drop me a line:</h3>
       <div align="left">
         <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
