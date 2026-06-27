@@ -54,7 +54,7 @@
 <h3 align="left">💫 About Me</h3>
 
  <p>  
-   🌱 I am currently working on and developing my programming skills.<br>
+                         🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
   💬 Skills I acquire in programming languages such as Python, SQL.<br>
   ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
