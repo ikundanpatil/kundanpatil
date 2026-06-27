@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,bootstrap,androidstudio,nodejs,gitlab,react,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=youtube" /><br>
+  <img src="https://skillicons.dev/icons?i=pycharm,c,python,javascript,mysql,cpp,java" /><br>
   <!-- <img src="https://skillicons.dev/icons?i=cpp,java" /><br>
 </div> -->
 
