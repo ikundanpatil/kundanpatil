@@ -48,7 +48,7 @@
   
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/ikundanpatil/kundanpatil/blob/main/Artist.gif" />
+<img align="left" alt="coding-gif" width="400" src="https://github.com/ikundanpatil/kundanpatil/blob/main/pixal.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
